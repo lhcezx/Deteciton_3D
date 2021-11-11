@@ -1,9 +1,3 @@
-"""
-# -*- coding: utf-8 -*-
------------------------------------------------------------------------------------
-# Refer: https://github.com/ghimiredhikura/Complex-YOLOv3
-# Source : https://github.com/jeasinema/VoxelNet-tensorflow/blob/master/utils/utils.py
-"""
 import os
 import sys
 import math
