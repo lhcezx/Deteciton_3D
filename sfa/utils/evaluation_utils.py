@@ -1,14 +1,3 @@
-"""
-# -*- coding: utf-8 -*-
------------------------------------------------------------------------------------
-# Author: Nguyen Mau Dung
-# DoC: 2020.08.17
-# email: nguyenmaudung93.kstn@gmail.com
------------------------------------------------------------------------------------
-# Description: The utils for evaluation
-# Refer from: https://github.com/xingyizhou/CenterNet
-"""
-
 from __future__ import division
 import os
 import sys
