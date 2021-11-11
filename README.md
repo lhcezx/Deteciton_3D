@@ -105,35 +105,7 @@ python train.py --multiprocessing-distributed --world-size 1 --rank 0 --batch_si
     python train.py --dist-url 'tcp://IP_OF_NODE2:FREEPORT' --multiprocessing-distributed --world-size 2 --rank 1 --batch_size 64 --num_workers 8
     ```
 
-#### Tensorboard
 
-- To track the training progress, go to the `logs/` folder and 
-
-```shell script
-cd logs/<saved_fn>/tensorboard/
-tensorboard --logdir=./
-```
-
-- Then go to [http://localhost:6006/](http://localhost:6006/)
-
-
-## Contact
-
-If you think this work is useful, please give me a star! <br>
-If you find any errors or have any suggestions, please contact me (**Email:** `nguyenmaudung93.kstn@gmail.com`). <br>
-Thank you!
-
-
-## Citation
-
-```bash
-@misc{Super-Fast-Accurate-3D-Object-Detection-PyTorch,
-  author =       {Nguyen Mau Dung},
-  title =        {{Super-Fast-Accurate-3D-Object-Detection-PyTorch}},
-  howpublished = {\url{https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection}},
-  year =         {2020}
-}
-```
 
 ## References
 
