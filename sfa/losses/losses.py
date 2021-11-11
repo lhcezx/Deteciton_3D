@@ -1,11 +1,3 @@
-# ------------------------------------------------------------------------------
-# Portions of this code are from
-# CornerNet (https://github.com/princeton-vl/CornerNet)
-# Copyright (c) 2018, University of Michigan
-# Licensed under the BSD 3-Clause License
-# Modified by Nguyen Mau Dung (2020.08.09)
-# ------------------------------------------------------------------------------
-
 import os
 import sys
 import math
