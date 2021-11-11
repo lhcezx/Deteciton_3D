@@ -1,17 +1,3 @@
-"""
-# ---------------------------------------------------------------------------------
-# -*- coding: utf-8 -*-
------------------------------------------------------------------------------------
-# Copyright (c) Microsoft
-# Licensed under the MIT License.
-# Written by Bin Xiao (Bin.Xiao@microsoft.com)
-# Modified by Xingyi Zhou
-# Refer from: https://github.com/xingyizhou/CenterNet
-
-# Modifier: Nguyen Mau Dung (2020.08.09)
-# ------------------------------------------------------------------------------
-"""
-
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
